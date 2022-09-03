@@ -1,0 +1,13 @@
+{
+  "user": {
+    "id": "D80soRGBY",
+    "uuid": "55d512e5-6f82-4c24-b93a-3367b56575a1",
+    "firstName": "Existing",
+    "lastName": "User",
+    "username": "existinguser@gmail.com",
+    "password": "$2a$10$ttLiqHK4yu/fzyYRrRhKHumWg9JR6qxdoestln033AGDYdcUDuM6e",
+    "balance": 0,
+    "createdAt": "2022-08-27T13:32:55.083Z",
+    "modifiedAt": "2022-08-27T13:32:55.083Z"
+  }
+}
